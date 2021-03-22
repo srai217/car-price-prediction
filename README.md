@@ -2,4 +2,4 @@
 predicting house prices Kaggle
 
 
-Hi My name is Shubham Rai and I am creating ths branch for learning purpose.
+Hi My name is Shubham Rai and I am creating this first project for ML House price prediction
